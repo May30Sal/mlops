@@ -138,8 +138,6 @@ for run in runs:
     print(f"Params: {run.data.params}")
 ```
 
----
-
 ## Git (Terminal Local)
 
 ### Operações Básicas
@@ -187,8 +185,6 @@ git merge feature/nova-funcionalidade
 # Deletar branch
 git branch -d feature/nova-funcionalidade
 ```
-
----
 
 ## Acessar Serviços
 

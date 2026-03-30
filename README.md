@@ -67,6 +67,4 @@
   docker compose down
   ```
 
-  --
-
 Pronto! Agora você pode trabalhar localmente com MLflow, MinIO, Postgres e Jupyter Lab.
